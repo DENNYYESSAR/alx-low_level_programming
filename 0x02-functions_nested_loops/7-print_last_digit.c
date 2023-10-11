@@ -3,7 +3,6 @@
 
 /**
  * print_last_digit - Print the last digit of a number.
- *
  * @a: The number for which the last digit is to be printed. 
  *
  * Return: The value of the last digit
