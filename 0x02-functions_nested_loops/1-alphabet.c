@@ -2,10 +2,10 @@
 
 
 	/**
-	 * print_alphabet - print all alphabet in lowercase
-	 * folloed by new line
-	 * Description:  function that prints the alphabet, in lowercase
-	 * Return: void
+	 * print_alphabet - Prints the lowercase alphabet.
+	 * 
+	 * Description: This function prints all the lowercase letters from 'a' to 'z'
+	 * followed by a newline character.
 	 */
 
 
