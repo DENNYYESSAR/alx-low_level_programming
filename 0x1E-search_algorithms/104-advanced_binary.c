@@ -6,8 +6,8 @@
  * advanced_binary_recursive - Searches for a value in a sorted array of
  *  integers using binary search recursively.
  * @array: A pointer to the first element of the array to search.
- * @low: The starting index of the array or subarray to search.
- * @high: The ending index of the array or subarray to search.
+ * @left: The starting index of the array or subarray to search.
+ * @right: The ending index of the array or subarray to search.
  * @value: The value to search for.
  *
  * Return: The index of the value if found, otherwise -1.
